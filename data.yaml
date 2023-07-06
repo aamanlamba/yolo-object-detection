@@ -1,0 +1,6 @@
+train: data_images/train
+val: data_images/test
+nc: 20 #number of classes
+names: ['diningtable', 'chair', 'horse', 'person', 'cow', 'dog', 'bottle',
+       'pottedplant', 'car', 'aeroplane', 'cat', 'sheep', 'bicycle',
+       'boat', 'bird', 'train', 'bus', 'sofa', 'tvmonitor', 'motorbike']
